@@ -33,10 +33,13 @@ This application is deployed on Render Please check it out :smile: [here](https:
 Sandbox is enabled for Paypal please use following credentials for making successful payments :
 
 email :
+
 `
 sb-wp4oo25077075@personal.example.com
 `
+
 pass :
+
 `
 tu16vC*e
 `
