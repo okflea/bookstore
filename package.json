@@ -1,0 +1,21 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend/bookstore-frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okflea/bookstore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okflea/bookstore/issues"
+  },
+  "homepage": "https://github.com/okflea/bookstore#readme"
+}

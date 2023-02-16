@@ -1,0 +1,7 @@
+sandbox credentials :
+email : sb-wp4oo25077075@personal.example.com
+pass : tu16vC*e
+name : john doe
+phone number :4084617269
+account id : NRU9JLW2V2YM8
+
