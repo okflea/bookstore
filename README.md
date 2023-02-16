@@ -17,6 +17,7 @@ A Book ecommerce store built with MERN stack, and utilizes minimal API's to func
   * Express middleware is used to handle requests, routes
   * Mongoose schemas to model the application data
   * MongoDB !!
+  * jsonwebtoken for authenticating
   * Vite js build tool made development a joy
   * react-boostrap
   * bcryptjs for encrypting passwords
