@@ -1,8 +1,8 @@
-# MERN Ecommerce
+# MERN Bookstore
 
 ## Description
 
-An Book ecommerce store built with MERN stack, and utilizes minimal API's to function. This ecommerce store has the following features :
+A Book ecommerce store built with MERN stack, and utilizes minimal API's to function. This ecommerce store has the following features :
 
 1. Buyers browse the book store
 2. Sign Up with email or Sign in
