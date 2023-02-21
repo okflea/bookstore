@@ -28,7 +28,7 @@ A Book ecommerce store built with MERN stack, and utilizes minimal API's to func
 
 ## Demo
 
-This application is deployed on Render Please check it out :smile: [here](https://fair-pear-betta-cuff.cyclic.app/).
+This application is deployed on cyclic Please check it out :smile: [here](https://fair-pear-betta-cuff.cyclic.app/).
 
 Sandbox is enabled for Paypal please use following credentials for making successful payments :
 
